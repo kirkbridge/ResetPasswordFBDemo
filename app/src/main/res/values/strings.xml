@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reset Password Demo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_account">Create New Account</string>
+    <string name="reset_password">Forgot Password? Click Here</string>
+    <string name="create_account">Create Account</string>
+    <string name="back_to_login">Go Back To Login Page</string>
+    <string name="user_name">User Name</string>
+</resources>

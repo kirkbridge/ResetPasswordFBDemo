@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607282770016",
+    "firebase_url": "https://password-reset-3a5f0.firebaseio.com",
+    "project_id": "password-reset-3a5f0",
+    "storage_bucket": "password-reset-3a5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607282770016:android:4f182608e4ce2149",
+        "android_client_info": {
+          "package_name": "com.kirkbridge.bit.passwordreset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607282770016-ln9rpmort73j1j36n06jta9emk0o5igh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirkbridge.bit.passwordreset",
+            "certificate_hash": "70f39b6a63dda3edc1abed95d29b85df8e8f9056"
+          }
+        },
+        {
+          "client_id": "607282770016-d0hra7k46t3t208t5rhuk5kit8okbh18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oR3tpkdiKwP_1unF6GI0Tcj-tvChLR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607282770016-d0hra7k46t3t208t5rhuk5kit8okbh18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
